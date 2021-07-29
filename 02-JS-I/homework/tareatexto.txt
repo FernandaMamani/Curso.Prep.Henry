@@ -1,0 +1,30 @@
+
+VARIABLES:
+Una variable es un espacio en la memoria de nuestra compu, donde guardaremos un "algo", pueden ser letras, 
+números u otros datos más complejos; a la cual la identificamos con un nombre. El nombre de mi variable debe
+darme una pista de lo que guardé dentro, por lo tanto, si mi variable se llama "Nombre", tendré la idea que dentro
+habrá letras que forman un nombre y no números o cálculos matemáticos.
+Para asignarle un valor (contenido) a mi variable lo voy hacer usando el igual "=" .
+Y como indica su nombre "Variable", significa que puedo cambiar su contenido. Salvo que use "const" , el cual bloquea la 
+posibilidad de cambiar su contenido.
+Existen 3 formas de declarar una variable:
+        * var
+        *let
+        *const
+
+STRINGS: 
+Los strings, son cadenas de caractéres (letras), que juntas forman una palabra. Un letra sola también es un string.     
+Siempre se escriben entre comillas.
+
+FUNCIONES:
+Una función nos permite agrupar lineas de código que hacen o cumplen una tarea, para luego invocarla(llamarla) cuando la 
+necesite. De esta manera reutilizamos el código escrito dentro de una función y evitamos escribir una y otra vez las mismas lineas de código.
+Además la función actua como una especie de plantilla , a la cual le puedo pasar los datos (argumentos) que quiero que use para que aplique la función y luego me devuelva
+un resultado o respuesta (return).Esto nos permitirá acceder a lo que sale de la función, puede ser por ejemplo un resultado de una cuenta, el cual vamos a necesitar para hacer 
+otro cálculo.
+
+DECLARACIONES if:
+if se utiliza para evaluar si una condición es verdadera (true) o su es falsa(false). Por lo que avanzará por el codigo, escrito dentro del if, mientras la condición es verdadera, si es falsa, se detendrá y saldrá del if .
+
+VALORES BOOLEANOS:
+Son aquellas variables que contienen alguno de estos dos valores: verdadero (true) o falso (false).
