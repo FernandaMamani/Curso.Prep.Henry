@@ -1,0 +1,36 @@
+HOMEWORK : JAVASCRIPT II
+
+FOR: se usa cuando queremos que nuestra sección de códogo se repita una y otra vez hasta que se cumpla la
+condición que nosotros definamos. Además nos permite ir incremetando el valor de la variable en cada vuelta,
+la cantidad que definamos, normalmente se incrementa en 1. Entonces podemos decir que el bucle for consta de 3 
+partes:
+
+1ª La declaración de una variable, que es de donde inicia.
+2ª Expresion condicional que se debe cumplir para cortar el bucle.
+3ª Incrementador, que incremeta la variable por lo general de a 1 (i++ => i=i+1), pero puede ser cualquier valor 
+que necesitemos.
+
+
+OPERADORES LÓGICOS:
+
+|| (OR) 
+
+Encuentra el primer valor que sea verdadero (true),sale del código y devuélve true, si todos son falsos devuelve (false).
+
+
+&& (AND)
+
+Devuelve true si todos los valores son verdaderos, si uno es falso devuelve false. En otras palabras, Encuentra
+el primer valor falso y sale del código.
+
+! (NOT)
+
+Operador de negación. Devolverá el valor booleano opuesto al que se le ingresa.
+
+ej:
+
+true // true
+
+!true // false
+
+!!true // true
