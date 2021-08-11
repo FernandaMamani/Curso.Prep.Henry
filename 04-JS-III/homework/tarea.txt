@@ -1,0 +1,7 @@
+ARRAY:
+
+Es un contenedor, como una cajita, donde se pueden guardar datos. Estos pueden ser todos 
+del mismo tipo o una colección de diversos tipos de datos. Entre los datos que podemos
+encontrar en un array son: strings, números, booleanos, otros arrays, objetos, funciones.
+Cada uno ocupa un espacio en el array y ese espacio se lo llama índice. Con este índice 
+podemos encontrar o llamar a un dato específico que está dentro del array.
