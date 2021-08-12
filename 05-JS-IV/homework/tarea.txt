@@ -1,0 +1,32 @@
+OBJETOS:
+
+los objetos son contenedores (cajas) no solo de datos, sino de un comjunto de información
+sobre determinada cosa.
+Para declarar un objeto usamos la llaves {} y todas sus propiedades y métosose encuentran dentro
+de estas llaves.
+
+PPROPIEDADES:
+Los objetos usan clave:valor/key:value, para identificar el lugar y valor en donde se guardó un dato.
+Algo similiar a los array, pero estos solo usan un índice numérico, en los objetos el "indice" llamado key o clave, 
+pueden ser strings.
+Los valores pueden ser cualquier tipo de dato : cadena, número, booleano, matriz, función u otro objeto.
+
+MÉTODOS:
+
+Las funciones guardadas en un objeto se llaman "Metodos". Para llamar a un método se utilizan los (), tal y cual lo 
+hacíamos para llamar una función.
+
+FOR IN:
+
+Para recorrer cada par clave:valor (elemento) de nuestro objeto, usaremos un for parecido al que usábamos,
+pero levemente diferente, llamado "for ...in loop". Comienza con for(), pero dentro del paréntesis, declararemos una 
+variable, luego la palabra "in" y el nombre del objeto a recorrer.
+
+for (let clave in usuario){
+    console.log(clave);
+    console.log(usuario[clave]);
+
+NOTACIÓN DE PUNTOS, NOTACION DE CORCHETES:
+
+La notación de puntos se puede usar siempre que sepamos el nombre concreto de una propiedad, para llamarla.
+Y los corchetes cuando el nombre de una propiedad se encuentre dentro de una variable.
